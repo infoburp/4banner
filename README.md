@@ -9,7 +9,11 @@ windows version needs wget installed.
 usage:
 
 python 4banner.py
+
 or
+
 run the bat file.
+
 or
+
 python3.4 4banner34.py
