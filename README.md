@@ -2,9 +2,8 @@
 =======
 
 get all the banners from 4chan (.png,.gif,.jpg)
-will save all files to current directory. 
 
-windows version needs wget installed.
+will save all files to current directory. 
 
 usage:
 
